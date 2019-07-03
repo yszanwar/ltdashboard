@@ -1,0 +1,25 @@
+
+[4m/Users/atharvajoshi/Desktop/NODE/PR/ltdashboard/frontend/src/app.js[24m
+   [2m39:1[22m   [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+   [2m40:14[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+   [2m59:20[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+   [2m63:13[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+   [2m72:15[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+   [2m78:18[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+   [2m84:14[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+   [2m90:13[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+  [2m108:15[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+  [2m115:21[22m  [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+  [2m127:9[22m   [31merror[39m  Missing JSDoc comment                                 [2mrequire-jsdoc[22m
+  [2m138:1[22m   [31merror[39m  This line has a length of 110. Maximum allowed is 80  [2mmax-len[22m
+  [2m170:1[22m   [31merror[39m  This line has a length of 93. Maximum allowed is 80   [2mmax-len[22m
+  [2m178:1[22m   [31merror[39m  This line has a length of 128. Maximum allowed is 80  [2mmax-len[22m
+  [2m189:1[22m   [31merror[39m  This line has a length of 104. Maximum allowed is 80  [2mmax-len[22m
+  [2m190:1[22m   [31merror[39m  This line has a length of 81. Maximum allowed is 80   [2mmax-len[22m
+  [2m237:1[22m   [31merror[39m  This line has a length of 118. Maximum allowed is 80  [2mmax-len[22m
+  [2m240:1[22m   [31merror[39m  This line has a length of 121. Maximum allowed is 80  [2mmax-len[22m
+  [2m243:1[22m   [31merror[39m  This line has a length of 124. Maximum allowed is 80  [2mmax-len[22m
+  [2m246:1[22m   [31merror[39m  This line has a length of 108. Maximum allowed is 80  [2mmax-len[22m
+
+[31m[1m✖ 20 problems (20 errors, 0 warnings)[22m[39m
+[31m[1m[22m[39m
